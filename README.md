@@ -17,6 +17,8 @@ Second:
 
 Forgive the poor graphics, I'm a junior backend dev who has no idea how design works
 
+Since the alchemist usually visualized in green color, I choose the green and white ! The most popular colors for Alchemists!
+
 I will continue to add more questions even after submission
 
 https://docs.google.com/presentation/d/1Y74_t4VvHwtUmmRgh6PhnRR1aSUmge17X0zz59C2MnM/edit?usp=sharing
