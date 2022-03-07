@@ -3,7 +3,7 @@ A design of interactive game that allows a total beginner have an understanding 
 
 
 
-<h2> First Tutorial for covalent</h2>
+<h2> Tutorial for covalent</h2>
 introducing covalent, analyst mode. Basic check balance tutorial
 
 I will keep updating this till the deadline
