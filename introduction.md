@@ -1,3 +1,9 @@
+moved to google docs 
+
+Check the google docs tutorial
+
+________________________________
+
 This introduction, we will introduce to what exactly is covalent.. how valuable it is .. who uses it, why is it necessary in many studies
 
 
